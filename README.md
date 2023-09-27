@@ -1,4 +1,4 @@
-[![MasterHead](https://mygptpro.streamlit.app/~/+/media/a508c653c6ab014d06b4f06618435131d30bc081bc29be468d4046ed.png)
+
 <h1 align="center">Hi 👋, I'm Mostafa Aldesoki</h1>
 <h3 align="center">Passionate about AI applications in dental and medical domains</h3>
 
