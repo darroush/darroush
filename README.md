@@ -6,12 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darroush" alt="darroush" /></a> </p>
 
-- 🔭 I’m currently working on [myGPTpro](https://mygptpro.streamlit.app/)
-
-- 🌱 I’m currently learning **ComputerVision**
-
-- 👯 I’m looking to collaborate on **Automatic Segmentation for Dicom files**
-
 - 📫 How to reach me **mostafadesoki86@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
